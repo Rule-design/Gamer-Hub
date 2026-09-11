@@ -24,6 +24,7 @@ Kurulum:
 1. ZIP dosyasını indirin ve ayıklayın
 2. `GamerHub.exe` dosyasını çalıştırın
 3. ⚠️ "Windows kişisel bilgisayarınızı korudu" uyarısı çıkarsa: "Daha fazla bilgi" → "Yine de çalıştır"
+   
 
 🇬🇧 English:
 
