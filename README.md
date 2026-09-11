@@ -36,3 +36,6 @@ Installation:
 1. Download and extract the ZIP file
 2. Run `GamerHub.exe`
 3. ⚠️ If you see the "Windows protected your PC" warning, click "More info" → "Run anyway"
+
+Not: 💻 PC sürümü ayrı bir release olarak yayınlanmıştır: [PC v0.44.4](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.4)
+Note: 💻 The PC version is published as a separate release: [PC v0.44.4](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.4)
