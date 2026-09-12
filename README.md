@@ -1,6 +1,6 @@
 🎮 Gamerhub
 
-Mobil / Mobile:
+Mobil / Mobile / Handy:
 
 🇹🇷 Türkçe:
 Gamerhub, oyun hesaplarını takip etmeni, kupa sayını kaydetmeni ve "Kupa Avı" mini oyunuyla eğlenmeni sağlayan tek dosyalık bir web uygulamasıdır; 10 farklı tema, özel profil oluşturma (fotoğraf ve ekran görüntüsü yükleme), başarımlar sistemi, Türkçe/İngilizce/Almanca dil desteği, müzik çalar ve veri yedekleme (Export/Import) gibi özelliklerle birlikte gelir, ayrıca APK olarak indirilip mobil cihazlarda çevrimdışı da çalışabilir. 
@@ -43,5 +43,18 @@ Installation:
 2. Run `GamerHub.exe`
 3. ⚠️ If you see the "Windows protected your PC" warning, click "More info" → "Run anyway"
 
-Not: 💻 PC sürümü a bir release olarak yayınlanmıştır: [PC v0.44.4](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.4)
-Note: 💻 The PC version is published as a separate reyrılease: [PC v0.44.4](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.4)
+🇩🇪 Deutsch:
+
+💻 PC (Windows)
+
+Die PC-Version kann eine Windows-SmartScreen-Warnung auslösen, da die Anwendung nicht digital signiert ist. Um sie auszuführen, klicken Sie einfach auf „Weitere Informationen" und dann auf „Trotzdem ausführen".
+
+Installation:
+
+1. Laden Sie die ZIP-Datei herunter und entpacken Sie sie
+2. Führen Sie GamerHub.exe aus
+3. ⚠️ Wenn die Warnung „Windows hat Ihren PC geschützt" erscheint, klicken Sie auf „Weitere Informationen" → „Trotzdem ausführen"
+
+Not: 💻 PC sürümü ayrı bir release olarak yayınlanmıştır: [PC v0.44.5](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.5)
+Note: 💻 The PC version is published as a separate release: [PC v0.44.5](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.5)
+Hinweis: 💻 Die PC-Version wird als separates Release veröffentlicht: [PC v0.44.5](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.5)
