@@ -55,6 +55,6 @@ Installation:
 2. Führen Sie GamerHub.exe aus
 3. ⚠️ Wenn die Warnung „Windows hat Ihren PC geschützt" erscheint, klicken Sie auf „Weitere Informationen" → „Trotzdem ausführen"
 
-Not: 💻 PC sürümü ayrı bir release olarak yayınlanmıştır: [PC v0.44.5](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.6)
-Note: 💻 The PC version is published as a separate release: [PC v0.44.5](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.6)
-Hinweis: 💻 Die PC-Version wird als separates Release veröffentlicht: [PC v0.44.5](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.6)
+Not: 💻 PC sürümü ayrı bir release olarak yayınlanmıştır: [PC v0.44.6](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.6)
+Note: 💻 The PC version is published as a separate release: [PC v0.44.6](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.6)
+Hinweis: 💻 Die PC-Version wird als separates Release veröffentlicht: [PC v0.44.6](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.6)
