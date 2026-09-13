@@ -1,6 +1,6 @@
 🎮 Gamerhub
 
-Mobil / Mobile / Handy:
+Mobil / Mobile / Handy / Móvil:
 
 🇹🇷 Türkçe:
 Gamerhub, oyun hesaplarını takip etmeni, kupa sayını kaydetmeni ve "Kupa Avı" mini oyunuyla eğlenmeni sağlayan tek dosyalık bir web uygulamasıdır; 12 farklı tema, özel profil oluşturma (fotoğraf ve ekran görüntüsü yükleme), başarımlar sistemi, Türkçe/İngilizce/Almanca dil desteği, müzik çalar ve veri yedekleme (Export/Import) gibi özelliklerle birlikte gelir, ayrıca APK olarak indirilip mobil cihazlarda çevrimdışı da çalışabilir. 
