@@ -6,26 +6,26 @@ Mobil / Mobile / Handy / Móvil:
 Gamerhub, oyun hesaplarını takip etmeni, kupa sayını kaydetmeni ve "Kupa Avı" mini oyunuyla eğlenmeni sağlayan tek dosyalık bir web uygulamasıdır; 12 farklı tema, özel profil oluşturma (fotoğraf ve ekran görüntüsü yükleme), başarımlar sistemi, Türkçe/İngilizce/Almanca dil desteği, müzik çalar ve veri yedekleme (Export/Import) gibi özelliklerle birlikte gelir, ayrıca APK olarak indirilip mobil cihazlarda çevrimdışı da çalışabilir. 
 
 Geliştirici: Rule
-İndir: En Son Sürüm (v0.44.7)
+İndir: En Son Sürüm (v0.44.8)
 
 🇬🇧 English:
 Gamerhub is a single-file web app that lets you track your game accounts, save your trophy counts, and have fun with the "Trophy Hunt" mini game; it comes packed with 12 themes, custom profile creation (with photo and screenshot upload), an achievements system, Turkish/English/German language support, a music player, and data backup (Export/Import), and it can also be downloaded as an APK to run offline on mobile devices.
 
 Developer: Rule
-Download: Latest Version (v0.44.7) 
+Download: Latest Version (v0.44.8) 
 
 🇩🇪 Deutsch:
 Gamerhub ist eine Web-App in einer einzigen Datei, mit der du deine Spielkonten verfolgen, deine Trophäenzahl speichern und mit dem Minispiel „Trophäenjagd" Spaß haben kannst; sie bietet 12 verschiedene Themen, die Erstellung eigener Profile (mit Foto- und Screenshot-Upload), ein Erfolgssystem, Unterstützung für Türkisch/Englisch/Deutsch, einen Musikplayer und Datensicherung (Export/Import) und kann auch als APK heruntergeladen werden, um offline auf Mobilgeräten zu laufen.
 
 Entwickler: Rule
-Download: Neueste Version (v0.44.7)
+Download: Neueste Version (v0.44.8)
 
 🇪🇸 Español:
 
 Gamerhub es una aplicación web de un solo archivo que te permite rastrear tus cuentas de juego, guardar tu recuento de trofeos y divertirte con el minijuego "Caza de Trofeos"; incluye 12 temas diferentes, creación de perfiles personalizados (subida de foto y captura de pantalla), sistema de logros, soporte de idiomas en turco/inglés/alemán, reproductor de música y copia de seguridad de datos (Exportar/Importar), además puede descargarse como APK y funcionar sin conexión en dispositivos móviles.
 
 Desarrollador: Rule
-Descargar: Última Versión (v0.44.7)
+Descargar: Última Versión (v0.44.8)
 
 🇹🇷 Türkçe:
 
@@ -74,7 +74,7 @@ Instalación:
 2. Ejecute el archivo GamerHub.exe
 3. ⚠️ Si aparece la advertencia "Windows protegió tu PC": "Más información" → "Ejecutar de todos modos"
 
-Not: 💻 PC sürümü ayrı bir release olarak yayınlanmıştır: [PC v0.44.7](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.7)
-Note: 💻 The PC version is published as a separate release: [PC v0.44.7](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.7)
-Hinweis: 💻 Die PC-Version wird als separates Release veröffentlicht: [PC v0.44.7](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.7)
-Nota: 💻 La versión para PC se ha publicado como un release independiente: [PC v0.44.7](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.7)
+Not: 💻 PC sürümü ayrı bir release olarak yayınlanmıştır: [PC v0.44.8](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.8)
+Note: 💻 The PC version is published as a separate release: [PC v0.44.8](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.8)
+Hinweis: 💻 Die PC-Version wird als separates Release veröffentlicht: [PC v0.44.8](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.8)
+Nota: 💻 La versión para PC se ha publicado como un release independiente: [PC v0.44.8](https://github.com/Rule-design/Gamer-Hub/releases/tag/PC-v0.44.8)
